@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="520" viewBox="0 0 1800 520">
+  <rect width="100%" height="100%" fill="#050505"/>
+  <g fill="#e6e6e6" font-family="monospace" font-size="28" font-weight="400">
+    <text x="40" y="56">SQL&gt; SELECT</text>
+    <text x="40" y="92">  2  employee_id,</text>
+    <text x="40" y="128">  3  employee_name,</text>
+    <text x="40" y="164">  4  department_id,</text>
+    <text x="40" y="200">  5  monthly_salary,</text>
+    <text x="40" y="236">  6  hire_date</text>
+    <text x="40" y="272">  7  FROM employees</text>
+    <text x="40" y="308">  8  ORDER BY employee_id;</text>
+    <text x="40" y="360" font-size="30" font-weight="700">EMPLOYEE_ID  EMPLOYEE_NAME    DEPARTMENT_ID  MONTHLY_SALARY  HIRE_DATE</text>
+    <line x1="40" y1="382" x2="1100" y2="382" stroke="#d0d0d0" stroke-width="2"/>
+    <text x="40" y="430">101  Jade Noria         10  4500.00  15-FEB-23</text>
+    <text x="40" y="466">102  Brian Niyonzima    20  5000.00  01-JUL-20</text>
+    <text x="40" y="502">103  Claudine Mukamana  30  3000.00  20-NOV-18</text>
+    <text x="40" y="538">104  David Habimana     40  6500.00  10-JAN-16</text>
+    <text x="40" y="574">105  Eric Ishimwe       10  10000.00 05-MAY-12</text>
+  </g>
+</svg>
