@@ -1,0 +1,32 @@
+</gitignore>
+# Oracle temporary files
+*.log
+*.trc
+*.trm
+*.aud
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor temporary files
+*.swp
+*.swo
+*~
+
+# VS Code settings
+.vscode/
+
+# Environment and private files
+.env
+.env.*
+
+# Python cache files
+__pycache__/
+*.pyc
